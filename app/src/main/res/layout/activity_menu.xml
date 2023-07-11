@@ -17,11 +17,11 @@
         />
 
     <androidx.appcompat.widget.AppCompatButton
-        android:id="@+id/IMCapp"
+        android:id="@+id/btnIMCapp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="10dp"
-        android:text="SaluApp"
+        android:layout_marginTop="15dp"
+        android:text="IMcapp"
         android:background="@color/teal_700"
         />
 
